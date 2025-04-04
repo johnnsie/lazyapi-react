@@ -33,7 +33,7 @@ npm run dev
 
 ```js
 
-// Update the backend endpoint
+// Update the backend endpoint in /src/LazyAPI.tsx
 const res = await fetch('http://localhost:5022/api/parse', ...
 
 ```
